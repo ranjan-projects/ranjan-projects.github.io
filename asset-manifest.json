@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ranjan-projects/ranjan-projects.github.io/static/css/main.c59569f8.css",
+    "main.js": "/ranjan-projects/ranjan-projects.github.io/static/js/main.a316f279.js",
+    "static/media/login.jpg": "/ranjan-projects/ranjan-projects.github.io/static/media/login.186b038ffa14b4dd39d7.jpg",
+    "static/media/slide-6.jpg": "/ranjan-projects/ranjan-projects.github.io/static/media/slide-6.32e677592df9521fb61f.jpg",
+    "static/media/slide-7.jpg": "/ranjan-projects/ranjan-projects.github.io/static/media/slide-7.9c76d0f1ac563201373e.jpg",
+    "static/media/slide-4.webp": "/ranjan-projects/ranjan-projects.github.io/static/media/slide-4.09f2322e96b9b1401ae7.webp",
+    "static/media/logo.png": "/ranjan-projects/ranjan-projects.github.io/static/media/logo.fa6bab12180f48879a3c.png",
+    "index.html": "/ranjan-projects/ranjan-projects.github.io/index.html",
+    "main.c59569f8.css.map": "/ranjan-projects/ranjan-projects.github.io/static/css/main.c59569f8.css.map",
+    "main.a316f279.js.map": "/ranjan-projects/ranjan-projects.github.io/static/js/main.a316f279.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c59569f8.css",
+    "static/js/main.a316f279.js"
+  ]
+}
